@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleTarefas.API", "ControleTarefas.API\ControleTarefas.API.csproj", "{E2FBAE90-617E-446D-A241-158FFEDE9861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2FBAE90-617E-446D-A241-158FFEDE9861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FBAE90-617E-446D-A241-158FFEDE9861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FBAE90-617E-446D-A241-158FFEDE9861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FBAE90-617E-446D-A241-158FFEDE9861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4559B8F2-C024-4D96-A00E-2573EDDAF1BA}
+	EndGlobalSection
+EndGlobal
